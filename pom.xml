@@ -83,7 +83,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.eureka.eurekaserver8090.ConfigServer9999Application</mainClass>
+                    <mainClass>com.config.liu.ConfigServer9999Application</mainClass>
                 </configuration>
                 <executions>
                     <execution>

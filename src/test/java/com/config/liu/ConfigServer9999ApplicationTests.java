@@ -1,4 +1,4 @@
-package com.eureka.eurekaserver8090;
+package com.config.liu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
